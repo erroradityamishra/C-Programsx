@@ -113,7 +113,7 @@ void display()
 
 
 OUTPUT:
-/tmp/R9JL87w9Cl.o
+
 Queue Implementation: 
  1: Insert 
  2: Delete
